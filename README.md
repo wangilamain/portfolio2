@@ -1,18 +1,14 @@
-Description.
-This is a web page with a brief description on me and a link of projects done.
-
-Author.
+#Author
 Sharon Wawira
 
-Technologies used.
-HTML5
+#Description
+This is a webpage with brief information about me and the projects i have done
+
+#Known bugs
+none
+
+#Technology
+HTML
 CSS
-
-Known Bugs
-No bugs detected.
-
-License
-MIT License &copy|Sharon
-
-Collaborate
-For more information or feedback, reach me out on wangiyng@gmail.com
+#Support contact
+wangilayng@gmail.com
