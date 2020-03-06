@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: maroon;
   margin: 20px;
   }
   nav {
@@ -26,7 +26,7 @@ body {
   .name {
   height: 300px;
   width: 100%;
-  background-image: url(https://acmatech.com/blog/wp-content/uploads/2013/04/Laptop-repair-course-software-skills.jpg);
+  background-image: url(imagesp/a_bouquet_of_pink_roses_picture_166778.jpg);
   display: flex;
   justify-content: center;
   }
